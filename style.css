@@ -1,0 +1,22 @@
+
+#name{
+    display: flex;
+    font-size: 2em;
+    font-family: 'Quicksand', sans-serif;
+}
+#red{
+    width: 60%;
+    text-align: right;
+    background: linear-gradient( yellow 0%, red 50%, gold 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-left: 2px gold solid;
+    border-bottom: 2px gold solid;
+    border-top: 2px solid white;
+}
+#dy{
+    width: 40%;
+    border-top: 2px gold solid;
+    border-right: 2px gold solid;
+    margin: auto;
+}
